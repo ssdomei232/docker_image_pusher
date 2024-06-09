@@ -10,4 +10,5 @@ halcyonazure/lsky-pro-docker:latest
 mysql:8.2.0
 phpmyadmin:5.2.1
 linuxserver/qbittorrent:4.6.5
+ghcr.io/open-webui/open-webui:main
 
