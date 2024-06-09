@@ -4,4 +4,11 @@ adminer:4.8.1-standalone
 xhofe/alist:v3.35.0
 apache/answer:1.3.1
 advplyr/audiobookshelf:2.10.1
+gitea.cn/gitea/gitea:1.21.11
+corentinth/it-tools:2024.5.13-a0bc346
+jellyfin/jellyfin:10.9.6
+halcyonazure/lsky-pro-docker:latest
+mysql:8.2.0
+phpmyadmin:5.2.1
+linuxserver/qbittorrent:4.6.5
 
