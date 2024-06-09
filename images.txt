@@ -12,4 +12,9 @@ phpmyadmin:5.2.1
 linuxserver/qbittorrent:4.6.5
 ghcr.io/open-webui/open-webui:main
 1dev/server:10.8.0
-
+gitea/act_runner:0.2.10
+vaultwarden/server:1.30.5-alpine
+linuxserver/calibre-web:0.6.21-ls241
+dgtlmoon/changedetection.io:0.45
+yidadaa/chatgpt-next-web:v2.12.3
+clickhouse/clickhouse-server:24.5.1-alpine
