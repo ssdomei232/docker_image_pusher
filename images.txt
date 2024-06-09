@@ -18,3 +18,10 @@ linuxserver/calibre-web:0.6.21-ls241
 dgtlmoon/changedetection.io:0.45
 yidadaa/chatgpt-next-web:v2.12.3
 clickhouse/clickhouse-server:24.5.1-alpine
+cloudflare/cloudflared:2024.6.0
+cloudreve/cloudreve:3.8.3
+linuxserver/code-server:4.89.1
+hashicorp/consul:1.18.2
+registry.cn-qingdao.aliyuncs.com/dataease/dataease:v2.7.0
+jeessy/ddns-go:v6.6.1
+tencentci/discuz:v3.4
