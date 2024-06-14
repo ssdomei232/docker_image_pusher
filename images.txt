@@ -25,3 +25,5 @@ hashicorp/consul:1.18.2
 registry.cn-qingdao.aliyuncs.com/dataease/dataease:v2.7.0
 jeessy/ddns-go:v6.6.1
 tencentci/discuz:v3.4
+1panel/openresty:1.21.4.3-3-2-focal
+
