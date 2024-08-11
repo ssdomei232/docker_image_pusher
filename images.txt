@@ -1,1 +1,1 @@
---platform=linux/arm64 sickcodes/docker-osx:latest
+sickcodes/docker-osx:latest
