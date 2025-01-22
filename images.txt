@@ -1,1 +1,1 @@
-ghcr.io/lagrangedev/lagrange.onebot:sha-8e3ffc4@sha256:aab9ea0e0b14ddc060757b3a3e747e877679cf2ff5671c43b795a0c98e7600e7
+ghcr.io/lagrangedev/lagrange.onebot:sha-20b656e@sha256:5ec162161e1c8840ba6a6f782ae901aa570b7f129f03d3c0b8a12ab7719b56b6
