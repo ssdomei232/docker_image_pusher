@@ -1,1 +1,2 @@
-modernwms/modernwms:1.0
+greaterwms/greaterwms:front
+greaterwms/greaterwms:backend
