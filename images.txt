@@ -1,3 +1,1 @@
-mysql:8.0
-henam/linyu-mini-web:latest
-henam/linyu-mini-server:latest
+modernwms/modernwms:1.0
